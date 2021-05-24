@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: hasan
+Build-Jdk: 15.0.1
+Implementation-Title: todoproje
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.hc.todoproje
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/todoproje
+Created-By: Maven Integration for Eclipse
+
